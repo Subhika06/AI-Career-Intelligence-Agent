@@ -1,0 +1,6 @@
+{
+  "name": "Career Navigator AI",
+  "description": "An AI-powered personalized career navigation platform. Analyze your skills, identify skill gaps, generate structured learning roadmaps with action plans, and track your progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
