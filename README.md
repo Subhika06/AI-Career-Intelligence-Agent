@@ -187,3 +187,9 @@ Java Full Stack Developer | AI Enthusiast
 ## 📄 License
 
 This project is developed for learning, academic, and portfolio purposes.
+
+---
+
+## Live Demo
+
+https://career-navigator-ai-49262326334.asia-southeast1.run.app
